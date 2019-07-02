@@ -1,0 +1,7 @@
+print ("HELLO SAMSON")
+print ("HELLO SAMSON")
+print ("HELLO SAMSON")
+print ("HELLO SAMSON")
+print ("HELLO SAMSON")
+print ("HELLO SAMSON")
+print ("HELLO SAMSON")
